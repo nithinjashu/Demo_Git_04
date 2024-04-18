@@ -1,5 +1,6 @@
 ## Application Details
 ## Adding new line in feature
+## adding second line in feature branch
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Thu Apr 18 2024 12:14:32 GMT+0000 (Coordinated Universal Time)|
